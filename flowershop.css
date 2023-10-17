@@ -126,7 +126,7 @@ body{
 }
 
 .f-box{
-    margin-top: 40px;
+    margin-top: 60px;
     margin-right: auto;
     margin-left: auto;
     display: flex;
@@ -136,7 +136,7 @@ body{
     width: 60vw;
     height: 20vh;
     border-radius: 5px;
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 } 
 
 /* Adjust the .f-b divs */
